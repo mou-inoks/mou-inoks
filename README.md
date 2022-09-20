@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mou-inoks" alt="mou-inoks" /></a> </p>
 
-- 🔭 I’m currently working in **Inoks Capital**
+- 🔭 I’m currently working at **Inoks Capital SA**
 
-- 🌱 I’m currently learning **React, c# and Javascript**
+- 🌱 I’m currently learning **React, c# and Javascript, Entity Framework Core**
 
 
 </p>
