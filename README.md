@@ -5,10 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /> 
 
-- 🔭 I’m currently working at **Inoks Capital SA**
-
-- 🌱 I’m currently learning **React, c# and Javascript, Entity Framework Core**
-
 
 </p>
 
