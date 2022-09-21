@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mou-inoks&label=Profile%20views&color=0e75b6&style=flat" alt="mou-inoks" /> </p>
 
-https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg
+<p align "left"> <video src"https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt"matrix" /> </p>
 
 - 🔭 I’m currently working at **Inoks Capital SA**
 
