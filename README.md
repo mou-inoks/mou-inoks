@@ -6,7 +6,7 @@
 ### <div align="center">I'm Salim, a full-time apprentice in software developpement 👨‍💻  🚀</div>  
   
 
-- 🔭 I’m currently working on [Github EasyMeal](https://github.com/mou-inoks/easy-meal)  
+- 🔭 I’m currently working on [Github Computer Stock](https://github.com/mou-inoks/ComputerStock)
   
 
 - 🌱 I’m currently learning TypeScript and C#  
