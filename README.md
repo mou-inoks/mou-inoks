@@ -9,9 +9,7 @@ print(f'Follow {mou-inoks} on Github')
 ```python
        OS  :  nt10
    Python  :  python 3.9.13
-Languages  :  Python, Java, Js, Batch, C, HTML/CSS
-  Discord  :  1079152298581819513
-   Server  :  1010193660261978134
+Languages  :  Python, C#, Js, Batch, HTML/CSS
 ```
 
 ```json
