@@ -18,4 +18,4 @@ Languages  :  Python, Java, Js, Batch, C, HTML/CSS
 Knowledge is power.
 ```
 
-<img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://github.com/mou-inoks/mou-inoks/blob/output/github-contribution-grid-snake.svg" alt="snake">
