@@ -16,4 +16,4 @@ Languages  :  Python, CSharp, Js, Batch, HTML/CSS
 Knowledge is power.
 ```
 
-<img src="https://github.com/mou-inoks/mou-inoks/blob/output/github-contribution-grid-snake.svg" alt="snake">
+![snake gif](https://github.com/mou-inoks/mou-inoks/blob/output/github-contribution-grid-snake.gif)
