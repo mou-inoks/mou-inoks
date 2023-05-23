@@ -6,12 +6,6 @@
 Console.WriteLine($'Follow {mou-inoks} on Github')
 ```
 
-```python
-       OS  :  nt10
-   Python  :  python 3.9.13
-Languages  :  Python, CSharp, Js, Batch, HTML/CSS
-```
-
 ```json
 Knowledge is power.
 ```
