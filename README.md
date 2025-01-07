@@ -1,4 +1,4 @@
 
 ```json
-Knowledge is power.
+Working with Attention. It's all we need
 ```
